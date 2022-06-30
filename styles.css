@@ -1,0 +1,35 @@
+/* Common Styles */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Title */
+.title{
+    color: white;
+    padding-top: 10%;
+}
+
+.heading{
+    font-size: 3.5rem;
+    color: #35858B;
+}
+
+/* About */
+
+.about{
+    padding: 5% 10%;
+}
+
+.para{
+    font-weight: 600;
+    color: grey;
+}
+
+/* Contact */
+.contact{
+    background-color: #4FBDBA;
+    padding: 2% 10%;
+    color: white;
+    text-align: center;
+}
