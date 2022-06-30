@@ -18,12 +18,28 @@ body{
 /* About */
 
 .about{
-    padding: 5% 10%;
+    padding: 5% 10% 2% 10%;
 }
 
 .para{
     font-weight: 600;
     color: grey;
+}
+
+/* Skills */
+
+.skillset{
+    padding: 3% 10%;
+}
+
+@media (max-width: 700) {
+    .skillset{
+        padding: 3% 10%;
+    }
+}
+
+.coding-image, .webdev-image, .design-image{
+    margin: auto;
 }
 
 /* Contact */
